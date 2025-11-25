@@ -1,4 +1,3 @@
-// src/component/SiswaTable.jsx
 export default function SiswaTable({ siswas, onView, onEdit, onDelete }) {
   return (
     <div className="overflow-x-auto bg-white shadow rounded-xl">
